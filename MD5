@@ -1,0 +1,9 @@
+9d5f18d45d1dfe95415ed2a768932044 *DESCRIPTION
+b7e3465490a99531095aedbc8b584b53 *NAMESPACE
+d261e199ea8e0ebe71a67feaf4598f67 *R/TopDecileLift.R
+83fd02b3b8f9b89563c51680aee23f4c *R/plotLift.R
+f24d6f4645788011cbc7fc779619835c *data/churn.RData
+4e705c2041457961f7945395d079a5ab *inst/NEWS
+afc8a6c918f0ada566bd9f84ad205e67 *man/TopDecileLift.Rd
+1c9802caca04dcac27e0b6c65e690926 *man/churn.Rd
+78c0d3af5a6ae16253b804e9bdd5dbba *man/plotLift.Rd
