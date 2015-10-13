@@ -28,5 +28,5 @@ plotLift <- function(predicted,labels,cumulative=TRUE, n.buckets=10,...){
     lift[,2] <- cumsum(lift[,2])/seq_along(lift[,2])
     ylab <- "Cumulative lift"
   }
-  plot(lift[,1],lift[,2], type="l", ylab=ylab, xlab="bucket",... )
+  plot(lift[,1],lift[,2]/mean(labels), type="l", ylab=ylab, xlab="bucket",... )
 }

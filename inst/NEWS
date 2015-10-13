@@ -1,5 +1,8 @@
 Change log:
 
+Version 0.0.2., Oct 13, 2015
+-----------------------------
+Divided the y values by mean(labels) in plotLift
 
 Version 0.0.1., Sep 30, 2015
 -----------------------------
